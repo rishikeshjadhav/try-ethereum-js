@@ -1,0 +1,17 @@
+{
+  "name": "ethereumjsnode",
+  "version": "1.0.0",
+  "description": "Try Ethereum JS with node and npm",
+  "main": "tryEthereum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishikesh J",
+  "license": "ISC",
+  "dependencies": {
+    "eth-lightwallet": "^2.5.6",
+    "ethereumjs-tx": "^1.3.4",
+    "ethereumjs-util": "^4.4.1",
+    "web3": "^0.19.1"
+  }
+}
